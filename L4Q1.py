@@ -3,6 +3,11 @@ os.chdir(r'C:\users\yee jet tan\desktop')
 file = open('data.csv', 'r')
 
 def line_averages(filename):
+    ''' Given parameter filename, 
+        open and read csv file with filename filename, 
+        compute the average value for every line
+        and return the average values in a list '''
+        
     data = filename.readlines()
     answer = list()
     for d in data:
@@ -17,4 +22,4 @@ def line_averages(filename):
 print(line_averages(file))
 
 file.close()
-# ['1,2\n', '1,1,1,1\n', '-1,0,1\n', '42,17']
+
