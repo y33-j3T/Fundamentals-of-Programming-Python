@@ -5,6 +5,10 @@ def f2(x):
     return 0
 
 def create_plot_data(f, xmin, xmax, n):
+    ''' Given parameters f, xmin, xmax and n, 
+         return a tuple (xs, ys) where xs and ys are 
+         two sequences, each containing n numbers '''
+         
     x = [(xmin + i*(xmax-xmin)/(n-1)) for i in range(n)]
     y = [f(num) for num in x]
     return x, y
