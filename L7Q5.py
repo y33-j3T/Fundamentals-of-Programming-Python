@@ -32,7 +32,7 @@ def newton(f, x, feps, maxit):
             maxit_copy-=1
         else:
             raise RuntimeError("Failed after %d iterations" % maxit)
-        
+    
     return x
 
 print(newton(f, 1.0, 0.2, 15))

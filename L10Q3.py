@@ -1,5 +1,5 @@
 import numpy as np
-from scipy.optimize import curve_fit as cf
+from scipy.optimize import curve_fit 
 import pylab
 
 def model(t, Ti, Ta, c):
@@ -24,8 +24,20 @@ def read2coldata(filename):
     arr1 = data[:, 0]
     arr2 = data[:, 1]
     return arr1, arr2
-    
+
+def extract_parameters(ts, Ts):
+    ''' Given parameters ts and Ts, 
+        expect a numpy array ts with time values and 
+        a numpy array Ts of the same length as ts 
+        with corresponding temperature values.
         
+        The function should estimate and return a tuple 
+        of the three model parameters Ti, Ta and c (in this order) 
+        by fitting the model function as in equation (1) to 
+        the data ts and Ts '''
+        
+    params, extras = curve_fit(model, ts, Ts, p0=(100, 0, 10))
+    return params
         
 def plot(ts, Ts, Ti, Ta, c):
     """ Input Parameters:
@@ -47,21 +59,13 @@ def plot(ts, Ts, Ti, Ta, c):
         Function returns None. """
         
     pylab.plot(ts, Ts, 'o', label='data')
-    fTs = model(ts, Ti, Ta, c)
-    pylab.plot(ts, fTs, label='fitted')
+    params = extract_parameters(ts, Ts)
+    fTs = model(ts, params[0], params[1], params[2])
+    pylab.plot(ts, fTs, 'r-', label='fitted')
     pylab.legend()
     pylab.show()
      
-def extract_parameters(ts, Ts):
-    ''' Given parameters ts and Ts, 
-        expect a numpy array ts with time values and 
-        a numpy array Ts of the same length as ts 
-        with corresponding temperature values.
-        
-        The function should estimate and return a tuple 
-        of the three model parameters Ti, Ta and c (in this order) 
-        by fitting the model function as in equation (1) to 
-        the data ts and Ts '''
         
 datats, dataTs = read2coldata('temperature-data.txt')
 plot(datats, dataTs, 100, 0, 10)
+

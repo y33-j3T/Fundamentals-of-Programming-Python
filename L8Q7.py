@@ -22,8 +22,8 @@ def myplot():
     
     plot_data_f1 = create_plot_data(f1, -2, 2, 1001)
     plot_data_f2 = create_plot_data(f2, -2, 2, 1001)
-    linef1, = plt.plot(plot_data_f1[0], plot_data_f1[1], 'b-', label='f1(x)')
-    linef2 = plt.plot(plot_data_f2[0], plot_data_f2[1], 'r-', label='f2(x)')
+    plt.plot(plot_data_f1[0], plot_data_f1[1], 'b-', label='f1(x)')
+    plt.plot(plot_data_f2[0], plot_data_f2[1], 'r-', label='f2(x)')
     plt.xlabel('x')
     plt.grid(True)
     plt.legend()
@@ -32,7 +32,7 @@ def myplot():
     plt.close()
 
 def find_cross():
-    f = lambda x: f1(x)-f2(x)
+    f =  lambda x: f1(x)-f2(x)
     ans = brentq(f, 0, 2, full_output=True)
     
     return ans
