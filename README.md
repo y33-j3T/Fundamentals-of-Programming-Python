@@ -1,5 +1,5 @@
 # Fundamentals-of-Programming-Python
-### *Python programming lab works from University of Southampton, Malaysia (2019)*
+*Python programming lab works from University of Southampton, Malaysia (2019)*
 
 ### L1 Getting Started
 
