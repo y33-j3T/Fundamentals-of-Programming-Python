@@ -1,5 +1,6 @@
 # Fundamentals-of-Programming-Python
 *Python programming lab works from University of Southampton, Malaysia (2019)*
+*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
 
 #### L1 Getting Started
 
@@ -21,7 +22,7 @@
 
 #### L10 Cup of Tea
 
-:star: *Questions for each Lab are in the `Lab(number).pdf` file of each folder*
+
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
