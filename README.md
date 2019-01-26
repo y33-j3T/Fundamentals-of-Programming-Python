@@ -21,7 +21,7 @@
 
 #### L10 Cup of Tea
 
-*Questions for each Lab are in the `Lab(number).pdf` file in each folder
+*Questions for each Lab are in the `Lab(number).pdf` file in each folder*
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
