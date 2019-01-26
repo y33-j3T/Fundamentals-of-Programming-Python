@@ -1,5 +1,5 @@
 # Fundamentals-of-Programming-Python
 
 <p align="center">
-  <img width="768" height="768" src="http://pluspng.com/img-png/python-logo-png-download-python-logo-png-images-transparent-gallery-advertisement-360.png">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
 </p>
