@@ -1,6 +1,8 @@
 # Fundamentals-of-Programming-Python
 *Python programming lab works from University of Southampton, Malaysia (2019)*
 
+*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
+
 #### L1 Getting Started
 
 #### L2 Simple Functions and Conditional Branching (if)
@@ -20,6 +22,8 @@
 #### L9 Numerical integration, numpy
 
 #### L10 Cup of Tea
+
+
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
