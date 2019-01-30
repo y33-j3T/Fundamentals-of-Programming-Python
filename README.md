@@ -1,5 +1,8 @@
 # Python for Computational Science and Engineering
-# FEEG1001 - Design and Computing
+
+This repository consists of my solutions on the labaratories of the stated module as of year 2019.
+
+The module is part of the course FEEG1001 - Design and Computing, by University of Southampton, Malaysia.
 
 #### L01 Getting Started
 
