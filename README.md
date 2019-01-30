@@ -2,7 +2,7 @@
 
 This repository consists of my solutions on the labaratories of the stated module as of year 2019.
 
-The **[module](http://www.southampton.ac.uk/~feeg1001/index.html)** is part of the course **[FEEG1001 - Design and Computing](https://www.southampton.ac.uk/courses/modules/feeg1001.page)**, by **[University of Southampton, Malaysia](https://www.southampton.ac.uk/my/index.page)**.
+The **[module](http://www.southampton.ac.uk/~feeg1001/)** is part of the course **[FEEG1001 - Design and Computing](https://www.southampton.ac.uk/courses/modules/feeg1001.page)**, by **[University of Southampton, Malaysia](https://www.southampton.ac.uk/my/index.page)**.
 
 #### L01 Getting Started
 
