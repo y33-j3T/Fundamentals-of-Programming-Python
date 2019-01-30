@@ -7,21 +7,21 @@ L01 Getting Started
 
 L02 Simple Functions and Conditional Branching (if)
 
-#### L03 Working with Lists
+L03 Working with Lists
 
-#### L04 File Input/Output
+L04 File Input/Output
 
-#### L05 Lists, Files, Exceptions, Strings
+L05 Lists, Files, Exceptions, Strings
 
-#### L06 Higher Order Functions
+L06 Higher Order Functions
 
-#### L07 Dictionaries, Recursion, Rootfinding (Newton's method)
+L07 Dictionaries, Recursion, Rootfinding (Newton's method)
 
-#### L08 Various Applications, Plotting
+L08 Various Applications, Plotting
 
-#### L09 Numerical integration, `numpy`
+L09 Numerical integration, `numpy`
 
-#### L10 Cup of Tea
+L10 Cup of Tea
 
 *Questions for each Lab are in the `Lab(number).pdf` file of each folder*
 
