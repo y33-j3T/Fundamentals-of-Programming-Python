@@ -21,7 +21,7 @@
 
 #### L8 Various Applications, Plotting
 
-#### L9 Numerical integration, numpy
+#### L9 Numerical integration, `numpy`
 
 #### L10 Cup of Tea
 
