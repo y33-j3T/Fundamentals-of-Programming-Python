@@ -1,5 +1,7 @@
 # FEEG1001 - Design and Computing
 
+## Python for Computational Science and Engineering
+
 *Questions for each Lab are in the `Lab(number).pdf` file of each folder*
 
 #### L01 Getting Started
