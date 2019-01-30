@@ -1,8 +1,6 @@
 # FEEG1001 - Design and Computing
 
-## Python for Computational Science and Engineering
-
-*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
+Python for Computational Science and Engineering
 
 #### L01 Getting Started
 
@@ -24,7 +22,7 @@
 
 #### L10 Cup of Tea
 
-
+*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
