@@ -5,25 +5,28 @@ This module, **[Python for Computational Science and Engineering](http://www.sou
 ## Table of content
 - [L01 Getting Started](./L01)
 
-- [L02 Simple Functions and Conditional Branching (if)]
+- [L02 Simple Functions and Conditional Branching (if)](./L02)
 
-- [L03 Working with Lists]
+- [L03 Working with Lists](./L03)
 
-- [L04 File Input/Output]
+- [L04 File Input/Output](./L04)
 
-- [L05 Lists, Files, Exceptions, Strings]
+- [L05 Lists, Files, Exceptions, Strings](./L05)
 
-- [L06 Higher Order Functions]
+- [L06 Higher Order Functions](./L06)
 
-- [L07 Dictionaries, Recursion, Rootfinding (Newton's method)]
+- [L07 Dictionaries, Recursion, Rootfinding (Newton's method)](./L07)
 
-- [L08 Various Applications, Plotting]
+- [L08 Various Applications, Plotting](./L08)
 
-- [L09 Numerical integration, `numpy`]
+- [L09 Numerical integration, `numpy`](./L09)
 
-- [L10 Cup of Tea]
+- [L10 Cup of Tea](./L10)
 
-*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
+## Things to note
+- Questions for each Lab are in the `Lab(number).pdf` file of each folder
+
+- Additional data or input/ouput files for each lab are included in each folder in the form of `.pdf` or `.py`
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
