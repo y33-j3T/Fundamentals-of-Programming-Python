@@ -1,29 +1,30 @@
-# Fundamentals-of-Programming-Python
-*Python programming lab works from University of Southampton, Malaysia (2019)*
+# Python for Computational Science and Engineering
 
-*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
+This repository consists of my solutions on the labaratories of the stated module as of year 2019.
 
-#### L1 Getting Started
+The **[module](http://www.southampton.ac.uk/~feeg1001/)** is part of the course **[FEEG1001 - Design and Computing](https://www.southampton.ac.uk/courses/modules/feeg1001.page)**, by **[University of Southampton, Malaysia](https://www.southampton.ac.uk/my/index.page)**.
 
-#### L2 Simple Functions and Conditional Branching (if)
+#### L01 Getting Started
 
-#### L3 Working with Lists
+#### L02 Simple Functions and Conditional Branching (if)
 
-#### L4 File Input/Output
+#### L03 Working with Lists
 
-#### L5 Lists, Files, Exceptions, Strings
+#### L04 File Input/Output
 
-#### L6 Higher Order Functions
+#### L05 Lists, Files, Exceptions, Strings
 
-#### L7 Dictionaries, Recursion, Rootfinding (Newton's method)
+#### L06 Higher Order Functions
 
-#### L8 Various Applications, Plotting
+#### L07 Dictionaries, Recursion, Rootfinding (Newton's method)
 
-#### L9 Numerical integration, numpy
+#### L08 Various Applications, Plotting
+
+#### L09 Numerical integration, `numpy`
 
 #### L10 Cup of Tea
 
-
+*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
