@@ -1,6 +1,5 @@
 # Python for Computational Science and Engineering
-
-FEEG1001 - Design and Computing
+# FEEG1001 - Design and Computing
 
 #### L01 Getting Started
 
