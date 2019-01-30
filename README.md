@@ -26,7 +26,7 @@ This module, **[Python for Computational Science and Engineering](http://www.sou
 ## Things to note
 - Questions for each lab are in the `Lab(number).pdf` file of each folder.
 
-- Additional data or input/ouput files in the form of `.pdf` or `.py` are included in the respective folders of each lab.
+- Additional data or input/ouput files in the form of `.pdf` or `.py` for each lab are included in their respective folders.
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
