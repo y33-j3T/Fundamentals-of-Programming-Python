@@ -3,9 +3,9 @@
 This module, **[Python for Computational Science and Engineering](http://www.southampton.ac.uk/~feeg1001/)** is part of the course **[FEEG1001 - Design and Computing](https://www.southampton.ac.uk/courses/modules/feeg1001.page)**, by **[University of Southampton, Malaysia](https://www.southampton.ac.uk/my/index.page)**. This repository consists of my solutions on the labaratories of the stated module as of year 2019.
 
 ## Table of content
-- L01 Getting Started
+L01 Getting Started
 
-- L02 Simple Functions and Conditional Branching (if)
+L02 Simple Functions and Conditional Branching (if)
 
 #### L03 Working with Lists
 
