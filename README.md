@@ -23,6 +23,7 @@ This module, **[Python for Computational Science and Engineering][1]** is part o
 - Additional data or input/ouput files in the form of `.txt`, `.pdf` or `.py` for each lab are included in their respective folders.
 
 ### Contribution
+- Please refer to [CONTRIBUTION.md](./CONTRIBUTION.md) for details.
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
