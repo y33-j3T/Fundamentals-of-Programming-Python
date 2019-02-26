@@ -1,5 +1,5 @@
 # Python for Computational Science and Engineering
-This module, **[Python for Computational Science and Engineering][1]** is part of the course **[FEEG1001 - Design and Computing][2]**, by **[University of Southampton, Malaysia][3]**. This repository consists of my solutions on the labaratories of the stated module as of year 2019.
+This module, **[Python for Computational Science and Engineering][1]** is part of the course **[FEEG1001 - Design and Computing][2]**, by **[University of Southampton, Malaysia][3]**. This repository consists of my solutions on the labaratories of the stated module as of January 2019.
 
 ## Table of content
 - [Laboratories](#Laboratories)
