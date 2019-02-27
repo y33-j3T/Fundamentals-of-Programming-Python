@@ -25,6 +25,8 @@ This module, **[Python for Computational Science and Engineering][1]** is part o
 ### Contribution
 - Please refer to [CONTRIBUTION.md](./CONTRIBUTION.md) for details.
 
+### License
+
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
 </p>
