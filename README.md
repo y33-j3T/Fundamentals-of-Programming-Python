@@ -26,6 +26,7 @@ This module, **[Python for Computational Science and Engineering][1]** is part o
 - Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details.
 
 ### License
+Python for Computational Science and Engineering is licensed under the [MIT license](./LICENSE).
 
 <p align="center">
   <img src="http://www.stephanmiller.com/images/category/python.jpg">
