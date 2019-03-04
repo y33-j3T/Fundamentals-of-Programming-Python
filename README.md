@@ -1,7 +1,7 @@
 # Python for Computational Science and Engineering
 This module, **[Python for Computational Science and Engineering][1]** is part of the course **[FEEG1001 - Design and Computing][2]**, by **[University of Southampton, Malaysia][3]**. This repository consists of my solutions on the labaratories of the stated module as of January 2019.
 
-## Table of content
+## Contents
 - [Laboratories](#Laboratories)
 - [Things to note](#Things-to-note)
 - [Contribution](#Contribution)
@@ -18,7 +18,7 @@ This module, **[Python for Computational Science and Engineering][1]** is part o
 - [L09 Numerical integration, `numpy`](./L09)
 - [L10 Cup of Tea](./L10)
 
-### Things to note
+### Note
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
 - Additional data or input/ouput files in the form of `.txt`, `.pdf` or `.py` for each lab are included in their respective folders.
 
