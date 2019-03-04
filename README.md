@@ -6,7 +6,7 @@ This module, **[Python for Computational Science and Engineering][1]** is part o
 - [Things to note](#Things-to-note)
 - [Contribution](#Contribution)
 
-### Laboratories
+## Laboratories
 - [L01 Getting Started](./L01)
 - [L02 Simple Functions and Conditional Branching (if)](./L02)
 - [L03 Working with Lists](./L03)
@@ -18,14 +18,14 @@ This module, **[Python for Computational Science and Engineering][1]** is part o
 - [L09 Numerical integration, `numpy`](./L09)
 - [L10 Cup of Tea](./L10)
 
-### Note
+## Note
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
 - Additional data or input/ouput files in the form of `.txt`, `.pdf` or `.py` for each lab are included in their respective folders.
 
-### Contribution
+## Contribution
 - Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details.
 
-### License
+## License
 Python for Computational Science and Engineering is licensed under the [MIT license](./LICENSE).
 
 <p align="center">
