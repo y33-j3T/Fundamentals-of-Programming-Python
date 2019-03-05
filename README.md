@@ -1,10 +1,14 @@
 # Python for Computational Science and Engineering
-This module, **[Python for Computational Science and Engineering][1]** is part of the course **[FEEG1001 - Design and Computing][2]**, by **[University of Southampton, Malaysia][3]**. This repository consists of my solutions on the labaratories of the stated module as of January 2019.
+My solutions for the lab works of a Python programming course.
 
 ## Contents
+- [Introduction](#Introduction)
 - [Laboratories](#Laboratories)
-- [Things to note](#Things-to-note)
-- [Contribution](#Contribution)
+- [Note](#Note)
+- [Contributing](#Contributing)
+
+## Introduction
+This module, **[Python for Computational Science and Engineering][1]** is part of the course **[FEEG1001 - Design and Computing][2]**, by **[University of Southampton, Malaysia][3]**. This repository consists of my solutions on the labaratories of the stated module as of January 2019.
 
 ## Laboratories
 - [L01 Getting Started](./L01)
@@ -22,8 +26,8 @@ This module, **[Python for Computational Science and Engineering][1]** is part o
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
 - Additional data or input/ouput files in the form of `.txt`, `.pdf` or `.py` for each lab are included in their respective folders.
 
-## Contribution
-- Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details.
+## Contributing
+- Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
 
 ## License
 Python for Computational Science and Engineering is licensed under the [MIT license](./LICENSE).
