@@ -1,5 +1,5 @@
 # Python for Computational Science and Engineering
-My solutions for the lab works of a Python programming course.
+My solutions for the lab works of a Python programming course for computational science and engineering.
 
 ## Contents
 - [Introduction](#Introduction)
