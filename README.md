@@ -1,4 +1,4 @@
-# Python for Computational Science and Engineering
+# FEEG1001 Python for Computational Science and Engineering
 My solutions for the lab works of a university Python programming course for computational science and engineering.
 
 ## Contents
